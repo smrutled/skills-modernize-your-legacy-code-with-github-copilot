@@ -1,0 +1,13 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js account management application migrated from COBOL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
